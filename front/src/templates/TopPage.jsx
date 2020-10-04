@@ -14,11 +14,11 @@ const TopPage = () => {
           { name: 'twitter:card', content: 'summary' },
           { name: 'twitter:title', content: 'TopPage' },
           { name: 'twitter:description', content: 'description of TopPage' },
-          { name: 'twitter:image', content: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fglobal.canon%2Fja%2Fenvironment%2Fbird-branch%2Fphoto-gallery%2Fkijibato%2Findex.html&psig=AOvVaw1KzCY6TjDwxuGf21djqU_e&ust=1601900154355000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC1w5_1muwCFQAAAAAdAAAAABAD' },
+          { name: 'twitter:image', content: 'https://global.canon/ja/environment/bird-branch/photo-gallery/kijibato/img/gallery-kijibato-main@2x.jpg' },
           { property: 'og:title', content: 'TopPage' },
           { property: 'og:type', content: 'website' },
           { property: 'og:url', content: 'https://global.canon/ja/environment/bird-branch/photo-gallery/kijibato/index.html' },
-          { property: 'og:image', content: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fglobal.canon%2Fja%2Fenvironment%2Fbird-branch%2Fphoto-gallery%2Fkijibato%2Findex.html&psig=AOvVaw1KzCY6TjDwxuGf21djqU_e&ust=1601900154355000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC1w5_1muwCFQAAAAAdAAAAABAD' },
+          { property: 'og:image', content: 'https://global.canon/ja/environment/bird-branch/photo-gallery/kijibato/img/gallery-kijibato-main@2x.jpg' },
           { property: 'og:description', content: 'description of Home' },
         ]}
       />
