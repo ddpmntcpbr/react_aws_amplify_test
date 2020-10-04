@@ -3,6 +3,7 @@ import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
 import {PrimaryButton} from "../components/UIkit";
 import { Helmet } from "react-helmet";
+import { TwitterShareButton,TwitterIcon } from 'react-share';
 
 const TopPage = () => {
 
@@ -27,6 +28,10 @@ const TopPage = () => {
         label={"ボタン"}
         onClick={() => console.log("Clicked!")}
       />
+      <TwitterShareButton url="https://master.d11sevmfggnvt.amplifyapp.com/" title="Yomukatsu">
+          <TwitterIcon size={64} round />
+      </TwitterShareButton>
+
     </Container>
   );
 };
