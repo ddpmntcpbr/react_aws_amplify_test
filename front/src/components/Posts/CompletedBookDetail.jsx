@@ -1,6 +1,6 @@
 import React from "react";
 import { Box,Paper,Typography } from "@material-ui/core"
-import { BookCard } from "components/UIkit"
+import { BookCard } from "../UIkit"
 import { MapItemCard } from "./index"
 
 const CompletedBookDetail = (props) => {
